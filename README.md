@@ -1,24 +1,6 @@
 # Complex
 
-**TODO: Add description**
+**Elixir C communication**
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
-
-  1. Add `complex` to your list of dependencies in `mix.exs`:
-
-    ```elixir
-    def deps do
-      [{:complex, "~> 0.1.0"}]
-    end
-    ```
-
-  2. Ensure `complex` is started before your application:
-
-    ```elixir
-    def application do
-      [applications: [:complex]]
-    end
-    ```
+based on https://github.com/knewter/complex
 
